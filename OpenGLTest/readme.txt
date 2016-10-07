@@ -7,5 +7,3 @@
 4. Please Check the x86 option in VISUAL STUDIO 2015
 
 5. draw.h contains essential resources
-
-6. install this in /Documents/Visual Studio 2015/Projects directory
